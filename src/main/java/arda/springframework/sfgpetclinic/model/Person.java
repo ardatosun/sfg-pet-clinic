@@ -3,7 +3,7 @@ package arda.springframework.sfgpetclinic.model;
 public class Person {
 
     private String firstName;
-    private String lastName;
+    private String lastName;//test
 
     public String getFirstName() {
         return firstName;
